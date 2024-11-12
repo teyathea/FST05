@@ -78,11 +78,12 @@ git log
 
 git log --oneline
 
-- Delete extra branch
-git branch -d [branch_name]
-
 
 - Clear command in Git Bash Terminal
 clear
 
+- Delete extra branch
+git branch -d ext
 
+- Push to github
+git push 
