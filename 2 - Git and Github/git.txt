@@ -78,14 +78,11 @@ git log
 
 git log --oneline
 
-- 
+- Delete extra branch
+git branch -d [branch_name]
+
+
+- Clear command in Git Bash Terminal
 clear
 
-- Create a Branch
-git banch [branch_name]
 
-- List all existing branches
-git branch -a
-
-- Switch/move to a different banch
-git checkout [branch_name]
